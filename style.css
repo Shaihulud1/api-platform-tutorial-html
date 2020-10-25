@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.menu{
+    text-align: end;
+    margin-top: 20px;
+}
+
+.article-item img {
+  min-width: 215px;
+}
+
+.article-item h2 {
+  font-size: 30px;
+}
+
+.pagination {
+  text-align: end;
+}
+
+.comments h2 {
+  font-size: 30px;
+}
+
+.comments .comments-item {
+  background-color: rgb(180, 227, 245, .4);
+  filter: alpha(Opacity=70);
+}
+
+.comments .comments-item h3 {
+  font-size: 25px;
+  margin-bottom: 2px;
+  margin-left: 20px;
+}
+
+.comments .comments-item p {
+  margin-left: 20px;
+}
+.form-item{ 
+    margin-bottom: 20px;
+}
+/*# sourceMappingURL=style.css.map */
